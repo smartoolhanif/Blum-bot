@@ -3,7 +3,7 @@
 Auto Claim for Blum Telegram Bot
 
 # Watch Video Tutorial
-[Click Here](https://youtu.be/SoN_U7EO2XQ)
+[Click Here](https://youtu.be/)
 
 # Features
 
@@ -17,7 +17,7 @@ Auto Claim for Blum Telegram Bot
 
 # Register
 
-Click the following url to register : [Blum Bot](https://t.me/blum/app?startapp=tribe_sftearning_squad-ref_J6mrU1gUyy)
+Click the following url to register : [Blum Bot](https://t.me/blum/app?startapp=ref_9Kjz5xpfBH)
 
 # How to Use
 - [Windows](#windows)
@@ -33,7 +33,7 @@ Click the following url to register : [Blum Bot](https://t.me/blum/app?startapp=
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/Blum.git
+   git clone https://github.com/smartoolhanif/Blum-bot.git
    ```
 
 3. goto Blum directory
@@ -69,7 +69,7 @@ Click the following url to register : [Blum Bot](https://t.me/blum/app?startapp=
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/BlackDragonHacker/Blum.git
+   git clone https://github.com/smartoolhanif/Blum-bot.git
    ```
 
 3. goto Blum directory
@@ -107,7 +107,7 @@ Click the following url to register : [Blum Bot](https://t.me/blum/app?startapp=
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/Blum.git
+   git clone https://github.com/smartoolhanif/Blum-bot.git
    ```
 
 3. goto Blum directory
