@@ -1,0 +1,12 @@
+# Ignore token files
+token.txt
+
+# Ignore data files
+data.txt
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
